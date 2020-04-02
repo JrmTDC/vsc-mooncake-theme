@@ -1,0 +1,1 @@
+vsc-mooncake-theme
